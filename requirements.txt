@@ -1,0 +1,6 @@
+flask
+pandas
+gspread
+google-auth
+openai
+apscheduler
